@@ -1,7 +1,6 @@
  <h2> Hello Good People, I'm Promila   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p>Student at  <a href="https://www.nwu.edu.bd/"r">North Western University </a></br>Freelance Full Stack Developer <a href=" "></a><br>
- <p>Contact with me: me@promila.info</p>
+<p>Student at  <a href="https://www.nwu.edu.bd/"r">North Western University </a></br>Freelance Full Stack Developer <a href=" "></a>Contact with me: <a href="me@promila.info">me@promila.info</a></p>
 
 
 <p>
@@ -17,7 +16,7 @@
 <a href="https://twitter.com/pr0m3la"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/pr0mila/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://stackoverflow.com/users/7575924/pr0mila"><img src="https://img.shields.io/badge/stackoverflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stack overflow" /></a>&nbsp;
-<a href="mailto:promilaghoshmonty@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:promilaghoshmonty@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <a href="http://promila.info/"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Web site" /></a>&nbsp;
 
 
