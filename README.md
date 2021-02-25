@@ -1,6 +1,6 @@
  <h2> Hello Good People, I'm Promila   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p>Student at  <a href="https://www.nwu.edu.bd/"r">North Western University </a></br>Freelance Full Stack Developer <a href=" "></a>Contact with me: <a href="me@promila.info">me@promila.info</a></p>
+<p>Student at  <a href="https://www.nwu.edu.bd/"r">North Western University </a></br>Freelance Full Stack Developer <a href=" "></a><br>Contact with me: <a href="me@promila.info">me@promila.info</a></p>
 
 
 <p>
