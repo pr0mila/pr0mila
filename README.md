@@ -3,13 +3,7 @@
 <p>Student at  <a href="https://www.nwu.edu.bd/"r">North Western University </a></br>Django Developer <a href=" "></a><br>Contact with me: <a href="me@promila.info">me@promila.info</a></p>
 
 
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
-</p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/pr0mila" />
-</p>
 
 <p align="center">
 <br>
