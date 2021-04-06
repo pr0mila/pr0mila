@@ -26,7 +26,7 @@
 
 ### Regarding me _
 🔭 currently working on my Portfolio Website  <br>
-🌱 currently learning Full Stack Web Development <br>
+🌱 currently learning Backend Development <br>
 👯 looking to connect and collaborate with other Developers <br>
 🥅 2021 Goals: Contribute to more projects <br>
 🧗 I try to: face new challenges to explore innovations <br>
