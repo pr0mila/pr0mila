@@ -24,15 +24,7 @@
 
 
 
-### Regarding me _
-🔭 currently working on my Portfolio Website  <br>
-🌱 currently learning Backend Development <br>
-👯 looking to connect and collaborate with other Developers <br>
-🥅 2021 Goals: Contribute to more projects <br>
-🧗 I try to: face new challenges to explore innovations <br>
 
-
-<br>
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
