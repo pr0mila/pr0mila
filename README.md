@@ -1,4 +1,4 @@
- <h2> Hello Good People, I'm Promila   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+ <h2> Hello Good People, I'm Promila Ghosh   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p> </a></br>AI Engineer<a href=" "></a><br>Contact:  <a href="me@promila.info">me@promila.info</a></p>
 
