@@ -5,29 +5,38 @@
 
 
 
-<p align="left">
-<br>
-
-<a href="https://www.linkedin.com/in/promila-cse/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/pr0m3la"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="https://stackoverflow.com/users/7575924/pr0mila"><img src="https://img.shields.io/badge/stackoverflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stack overflow" /></a>&nbsp;
-<a href="mailto:promilaghoshmonty@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  <a href="http://promila.info/"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Web site" /></a>&nbsp;
 
 
-<br>
+<br/>
+
+[![LafLaurine's github stats](https://github-readme-stats.vercel.app/api?username=pr0mila&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 
 
+#### You can find me on <a href="https://www.linkedin.com/in/promila-cse/" target="blank">LinkedIn</a>
 
 
 
+#### :notebook: I’m always learning new things and try to improve myself. <br/>
+#### Things that I am into :
+  - :computer: Data Science 
+  - :chart_with_upwards_trend: Machine learning
+  - :brain: Natural Language Processing
 
 
-<br>
-<br>
-<br>
-<br>
+
+#### My favorite tools and languages :
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-%230db7ed.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-%230db7ed.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+#### :computer: [My portfolio](https://promila.info/)
+#### :e-mail: Reach me for anything at : <me@promila.info>
+
 
 <!--
 <details>
