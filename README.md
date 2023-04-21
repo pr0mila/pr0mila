@@ -34,7 +34,7 @@
 ![Keras](https://img.shields.io/badge/keras-%230db7ed.svg?style=for-the-badge&logo=keras&logoColor=red)
 ![Pytorch](https://img.shields.io/badge/pytorch-%ffffed.svg?style=for-the-badge&logo=pytorch&logoColor=red)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-%230db7ed.svg?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![FastAPI](https://img.shields.io/badge/fastapi-%230db7ed.svg?style=for-the-badge&logo=fastapi&logoColor=green)
+![FastAPI](https://img.shields.io/badge/fastapi-%23150458.svg?style=for-the-badge&logo=fastapi&logoColor=green)
 
 #### :computer: [My portfolio](https://promila.info/)
 #### :e-mail: Reach me for anything at : <me@promila.info>
