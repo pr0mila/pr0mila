@@ -19,8 +19,8 @@
 
 #### :notebook: I’m always learning new things and try to improve myself. <br/>
 #### Things that I am into :
-  - :computer: Data Science 
-  - :chart_with_upwards_trend: Machine learning
+  - :chart_with_upwards_trend: Data Science 
+  - :computer: Machine learning 
   - :brain: Natural Language Processing
 
 
@@ -31,8 +31,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/keras-%230db7ed.svg?style=for-the-badge&logo=keras&logoColor=white)
-![Pytorch](https://img.shields.io/badge/pytorch-%230db7ed.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-%230db7ed.svg?style=for-the-badge&logo=keras&logoColor=orange)
+![Pytorch](https://img.shields.io/badge/pytorch-%230db7ed.svg?style=for-the-badge&logo=pytorch&logoColor=red)
 
 #### :computer: [My portfolio](https://promila.info/)
 #### :e-mail: Reach me for anything at : <me@promila.info>
