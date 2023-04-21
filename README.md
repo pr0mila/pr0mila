@@ -31,8 +31,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/keras-%230db7ed.svg?style=for-the-badge&logo=keras&logoColor=orange)
+![Keras](https://img.shields.io/badge/keras-%230db7ed.svg?style=for-the-badge&logo=keras&logoColor=red)
 ![Pytorch](https://img.shields.io/badge/pytorch-%230db7ed.svg?style=for-the-badge&logo=pytorch&logoColor=red)
+![Tensorflow](https://img.shields.io/badge/tensorflow-%230db7ed.svg?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
 #### :computer: [My portfolio](https://promila.info/)
 #### :e-mail: Reach me for anything at : <me@promila.info>
