@@ -22,6 +22,7 @@
   - :chart_with_upwards_trend: Data Science 
   - :computer: Machine learning 
   - :brain: Natural Language Processing
+  - :robot: Computer Vision
 
 
 
