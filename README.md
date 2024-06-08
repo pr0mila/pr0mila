@@ -20,8 +20,8 @@
 #### :notebook: I’m always learning new things and try to improve myself. <br/>
 #### Things that I am into :
   - :chart_with_upwards_trend: Data Science 
-  - :computer: Machine learning 
-  - :brain: Natural Language Processing
+  - :brain: Machine learning 
+  - :hugs: Natural Language Processing
   - :robot: Computer Vision
 
 
