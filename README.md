@@ -1,8 +1,8 @@
  <h2> Hello Good People, I'm Promila Ghosh   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p> </a></br>AI Engineer<a href=" "></a><br>
-:computer: [My portfolio](https://promila.info/)<br>
-:e-mail: Reach me for anything at : <me@promila.info>
+:computer: My Portfolio https://promila.info/<br>
+:e-mail: Reach me for anything at : me@promila.info
 
 
 
