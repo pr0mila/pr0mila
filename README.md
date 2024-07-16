@@ -1,7 +1,8 @@
  <h2> Hello Good People, I'm Promila Ghosh   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p> </a></br>AI Engineer<a href=" "></a><br>Contact:  <a href="me@promila.info">me@promila.info</a></p>
-
+<p> </a></br>AI Engineer<a href=" "></a><be>
+#### :computer: [My portfolio](https://promila.info/)
+#### :e-mail: Reach me for anything at : <me@promila.info>
 
 
 
@@ -37,8 +38,7 @@
 ![Tensorflow](https://img.shields.io/badge/tensorflow-%230db7ed.svg?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23150458.svg?style=for-the-badge&logo=fastapi&logoColor=green)
 
-#### :computer: [My portfolio](https://promila.info/)
-#### :e-mail: Reach me for anything at : <me@promila.info>
+
 
 
 <!--
