@@ -23,7 +23,7 @@
   - :brain: Machine learning 
   - :hugs: Natural Language Processing
   - :robot: Computer Vision
-  - 🎵: Audio Processing
+  - 🎵 Audio Processing
 
 
 
