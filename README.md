@@ -34,7 +34,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/pytorch-%ffffed.svg?style=for-the-badge&logo=pytorch&logoColor=red)
-![Tensorflow](https://img.shields.io/badge/tensorflow-%230db7ed.svg?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%2332A7E2.svg?style=for-the-badge&logo=HuggingFace&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23150458.svg?style=for-the-badge&logo=fastapi&logoColor=green)
 
 
