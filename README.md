@@ -1,12 +1,12 @@
  <h2> Hello Good People, I'm Promila Ghosh   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p></br>Data Scientist<br>
-:computer: Explore My Profile <a href="https://promila.info" target="blank"></a>https://promila.info/<br>
-:e-mail: Reach me for anything at : <a href="mailto:me@promila.info" target="blank">me@promila.info</a>
+:computer: Explore My Profile <a href="https://promila.info" target="_blank"></a>https://promila.info/<br>
+:e-mail: Reach me for anything at : <a href="mailto:me@promila.info" target="_blank">me@promila.info</a>
 
 <br/>
 
-#### You can find me on <a href="https://www.linkedin.com/in/promila-cse/" target="blank">LinkedIn</a>
+#### You can find me on <a href="https://www.linkedin.com/in/promila-cse/" target="_blank">LinkedIn</a>
 
 
 
