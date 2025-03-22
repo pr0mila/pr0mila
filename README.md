@@ -1,7 +1,7 @@
  <h2> Hello Good People, I'm Promila Ghosh   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p></br>Data Scientist<br>
-:computer: My Portfolio <a href="https://promila.info" target="blank"></a>https://promila.info/<br>
+:computer: Explore My Profile <a href="https://promila.info" target="blank"></a>https://promila.info/<br>
 :e-mail: Reach me for anything at : <a href="mailto:me@promila.info" target="blank">me@promila.info</a>
 
 <br/>
@@ -10,7 +10,7 @@
 
 
 
-#### :notebook: I’m always learning new things and try to improve myself. <br/>
+#### :notebook: Teaching Machines to See, Hear & Think. <br/>
 #### Things that I am into :
   - :chart_with_upwards_trend: Data Science 
   - :brain: Machine learning 
@@ -20,7 +20,7 @@
 
 
 
-#### My favorite tools and languages :
+#### My favorites:
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
