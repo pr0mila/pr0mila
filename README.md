@@ -20,6 +20,9 @@
   <p><em>"Data is the new oil, but AI is the engine that transforms it into value."</em></p>
 </blockquote>
 
+💌 **Have a project idea or just want to say hi 👋? Feel free to shoot me an email at [me@promila.info](mailto:me@promila.info) - I'm always open to interesting collaborations!**
+
+
 ## 💡 Areas of Expertise
 
 <p align="center">
