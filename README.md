@@ -44,18 +44,6 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0mila&layout=compact&theme=tokyonight" alt="Promila's Top Languages" height="170">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pr0mila&color=blue&style=flat-square&label=Profile+Views" alt="Profile views">
-</div>
-
 <!-- You can uncomment the section below if you want to display your GitHub activity -->
 <!--
 ## 🔥 Recent Activity
