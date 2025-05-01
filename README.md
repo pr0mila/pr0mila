@@ -7,18 +7,15 @@
     <a href="https://promila.info" target="_blank"><img src="https://img.shields.io/badge/Website-promila.info-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
     <a href="mailto:me@promila.info"><img src="https://img.shields.io/badge/Email-me%40promila.info-orange?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://www.linkedin.com/in/promila-cse/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  </div>
+<a href="https://huggingface.co/pr0mila-gh0sh" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-Profile-orange?style=flat&logo=huggingface&logoColor" alt="Hugging Face"></a>  </div>
 </div>
 
 <br>
 
 ## 🚀 About Me
 
-> Teaching machines to see, hear & think. I specialize in developing innovative AI solutions that transform data into actionable insights and intelligent systems.
+> Teaching machines to see, hear & think. I specialize in developing innovative AI solutions across speech processing, language AI, and multimodal agent technologies. From speech recognition and synthesis to natural language preprocessing and multimodal data fusion, I build technologies that enable machines to interact naturally and intelligently with humans.
 
-<blockquote>
-  <p><em>"Data is the new oil, but AI is the engine that transforms it into value."</em></p>
-</blockquote>
 
 💌 **Have a project idea or just want to say hi 👋? Feel free to shoot me an email at [me@promila.info](mailto:me@promila.info) - I'm always open to interesting collaborations!**
 
