@@ -44,6 +44,16 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
+### Latest Articles on Medium
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@promilaghoshmonty/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@promilaghoshmonty/0" alt="Recent Article 0"> 
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@promilaghoshmonty/1">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@promilaghoshmonty/1" alt="Recent Article 1"> 
+</a>
+
+
 <!-- You can uncomment the section below if you want to display your GitHub activity -->
 <!--
 ## 🔥 Recent Activity
