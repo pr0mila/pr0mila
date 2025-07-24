@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-> Teaching machines to see, hear & think. I specialize in developing innovative AI solutions across speech processing, language AI, and multimodal agent technologies. From speech recognition and synthesis to natural language preprocessing and multimodal data fusion, I build technologies that enable machines to interact naturally and intelligently with humans.
+> I’m Promila, an AI engineer exploring how technology can solve real-world problems in meaningful ways. With a background in research and startup work, I’m now building The Data Dilemma—a space to rethink how we use data and AI with care, curiosity, and purpose.
 
 
 💌 **Have a project idea or just want to say hi 👋? Feel free to shoot me an email at [me@promila.info](mailto:me@promila.info) - I'm always open to interesting collaborations!**
