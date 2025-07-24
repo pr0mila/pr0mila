@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-> I’m Promila, an AI engineer exploring how technology can solve real-world problems in meaningful ways. With a background in research and startup work, I’m now building The Data Dilemma—a space to rethink how we use data and AI with care, curiosity, and purpose.
+> I’m Promila, an AI engineer exploring how technology can solve real-world problems in meaningful ways. With a background in research and startup work, I’m now building [The Data Dilemma](https://github.com/The-Data-Dilemma) — a space to rethink how we use data and AI with care, curiosity, and purpose.
 
 
 💌 **Have a project idea or just want to say hi 👋? Feel free to shoot me an email at [me@promila.info](mailto:me@promila.info) - I'm always open to interesting collaborations!**
