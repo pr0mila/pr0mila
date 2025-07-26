@@ -38,11 +38,12 @@
 #### 💡 Areas of Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-A3C1AD?style=for-the-badge" alt="Data Science">
-  <img src="https://img.shields.io/badge/Machine%20Learning-D1E8E2?style=for-the-badge" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/NLP-B2D7D6?style=for-the-badge" alt="NLP">
-  <img src="https://img.shields.io/badge/ASR-C7E2E1?style=for-the-badge" alt="ASR">
+  <img src="https://img.shields.io/badge/Data%20Science-A3C1AD?style=for-the-badge&logo=brain&logoColor=white" alt="Data Science">
+  <img src="https://img.shields.io/badge/Machine%20Learning-D1E8E2?style=for-the-badge&logo=robot&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Large%20Language%20Model-B2D7D6?style=for-the-badge&logo=book&logoColor=white" alt="Large Language Model">
+  <img src="https://img.shields.io/badge/Speech%20Technology-C7E2E1?style=for-the-badge&logo=volume-up&logoColor=white" alt="Speech Technology">
 </p>
+
 
 #### ⚙️ Tech Stack
 
