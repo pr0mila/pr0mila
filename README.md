@@ -1,9 +1,6 @@
 <h2 align="center">Hello Good People, I'm Promila Ghosh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=AI+Research+Scientist;AI+%26+Machine+Learning+Enthusiast;" alt="Typing SVG" />
-
-<div align="center">
   <a href="https://pr0mila.github.io/the-data-dilemma/" target="_blank">
     <img src="https://img.shields.io/badge/Founder-%E2%80%93%20The%20Data%20Dilemma-000000?style=flat&logo=founder&logoColor=white" alt="Founder">
   </a>
